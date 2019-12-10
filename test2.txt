@@ -1,1 +1,2 @@
+HELLO TEST FILE
 This is another test file
